@@ -14,7 +14,7 @@ gitpython
 pyglet==1.5.15
 
 # used to interface with the DCSS
-dt-data-api-daffy>=2.0.0,<3
+dt-data-api>=2.1.0,<3
 
 # numpy (pinned version is needed due to incompatibilities with duckietown-world)
 numpy==1.20.0
